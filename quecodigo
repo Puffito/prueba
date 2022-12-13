@@ -1,0 +1,3 @@
+boolean quedar, viernes, domingo, arkham, login
+
+quedar = (viernes||domingo)&&(arkham||login)
